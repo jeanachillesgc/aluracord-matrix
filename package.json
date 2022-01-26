@@ -1,0 +1,25 @@
+{
+  "name": "aluracord",
+  "version": "1.0.0",
+  "description": "aluracord",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": "git+https://github.com/jeanachillesgc/aluracord.git",
+  "author": "Jean Achille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanachillesgc/aluracord/issues"
+  },
+  "homepage": "https://github.com/jeanachillesgc/aluracord#readme",
+  "dependencies": {
+    "@skynexui/components": "^1.24.2",
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
